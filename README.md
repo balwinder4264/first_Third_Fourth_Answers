@@ -1,4 +1,4 @@
-# typescript_test
+
 # File names explain problem solution 
 
 # 1 how to run first project (firstQuestion_typeScript)
